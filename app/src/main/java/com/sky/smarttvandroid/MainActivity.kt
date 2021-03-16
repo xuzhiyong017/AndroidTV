@@ -148,7 +148,6 @@ class MainActivity : FragmentActivity() {
         LiveModels.add((LiveModel("NewTV动画王国","http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8")))
         LiveModels.add((LiveModel("SiTV动漫秀场FHD","http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8")))
         LiveModels.add((LiveModel("求索动物FHD","http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8")))
-        LiveModels.add((LiveModel("求索生活FHD","http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8")))
         LiveModels.add((LiveModel("求索一","http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8")))
         LiveModels.add((LiveModel("求索二","http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8")))
         LiveModels.add((LiveModel("求索三","http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8")))
